@@ -1,0 +1,1 @@
+sharing integer using shmd using structure sharing
