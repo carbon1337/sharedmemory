@@ -1,1 +1,1 @@
-sharing integer using shmd using structure sharing
+mem sharing using shmd using a char buffer 
